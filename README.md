@@ -1,0 +1,1 @@
+# Minarti_D0221050_Informatika-D
