@@ -33,7 +33,3 @@ public class Solution {
     System.out.println(nNegativeSum);
     }
 } 
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Secu
